@@ -13,7 +13,7 @@
 
 ---
 
-# 🧭 ABOUT ME (ENGINEERING PROFILE STYLE)
+# 🧭 ABOUT ME
 
 ```yaml
 identity:
