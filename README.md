@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**zohaibkit/zohaibkit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,100:7F00FF&text=Zohaib%20Khan&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-Here are some ideas to get you started:
+# ⚡ AI Engineer | Python Developer | Open Source Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+Projects;Python+Developer;Open+Source+Contributor;Always+Learning+New+Things&center=true&width=700&height=45">
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```python
+class Zohaib:
+    def __init__(self):
+        self.location = "Pakistan"
+        self.language = ["Python", "C++", "JavaScript"]
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Automation",
+            "Open Source"
+        ]
+
+    def life_goal(self):
+        return "Build useful AI products"
